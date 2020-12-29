@@ -23,6 +23,8 @@
 
 ## 日志
 
+视频:[bilibili尚硅谷老师](https://www.bilibili.com/video/BV1iJ411H74S?from=search&seid=12504535375635125531)
+
 |   名称   |                             网址                             |
 | :------: | :----------------------------------------------------------: |
 | 日志技术 | [网址](https://github.com/FLVE/Log/blob/main/docs/%E6%97%A5%E5%BF%97%E6%8A%80%E6%9C%AF.md) |
