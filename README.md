@@ -23,12 +23,13 @@
 
 ## 日志
 
+|   名称   |                             网址                             |
+| :------: | :----------------------------------------------------------: |
 | 日志技术 | [网址](https://github.com/FLVE/Log/blob/main/docs/%E6%97%A5%E5%BF%97%E6%8A%80%E6%9C%AF.md) |
-| -------- | ------------------------------------------------------------ |
-| JUL      | [网址](https://github.com/FLVE/Log/blob/main/docs/JUL%E6%8A%80%E6%9C%AF.md) |
-| log4j    | [网址](https://github.com/FLVE/Log/blob/main/docs/LOG4J%E6%8A%80%E6%9C%AF.md) |
-| JCL      | [网址](https://github.com/FLVE/Log/blob/main/docs/JCL%E6%8A%80%E6%9C%AF.md) |
-| slf4j    | [网址](https://github.com/FLVE/Log/blob/main/docs/SLF4j.md)  |
+|   JUL    | [网址](https://github.com/FLVE/Log/blob/main/docs/JUL%E6%8A%80%E6%9C%AF.md) |
+|  log4j   | [网址](https://github.com/FLVE/Log/blob/main/docs/LOG4J%E6%8A%80%E6%9C%AF.md) |
+|   JCL    | [网址](https://github.com/FLVE/Log/blob/main/docs/JCL%E6%8A%80%E6%9C%AF.md) |
+|  slf4j   | [网址](https://github.com/FLVE/Log/blob/main/docs/SLF4j.md)  |
 | logback  | [网址](https://github.com/FLVE/Log/blob/main/docs/Logback.md) |
 
 
